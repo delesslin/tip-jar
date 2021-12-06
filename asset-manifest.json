@@ -1,0 +1,30 @@
+{
+  "files": {
+    "app.js": "/tip-jar/static/js/app.f6632add.chunk.js",
+    "app.js.map": "/tip-jar/static/js/app.f6632add.chunk.js.map",
+    "runtime~app.js": "/tip-jar/static/js/runtime~app.fb021e65.js",
+    "runtime~app.js.map": "/tip-jar/static/js/runtime~app.fb021e65.js.map",
+    "static/js/2.eeb673fd.chunk.js": "/tip-jar/static/js/2.eeb673fd.chunk.js",
+    "static/js/2.eeb673fd.chunk.js.map": "/tip-jar/static/js/2.eeb673fd.chunk.js.map",
+    "fonts/RobotoCondensed-Bold.ttf": "/tip-jar/./fonts/RobotoCondensed-Bold.ttf",
+    "fonts/RobotoMono-Italic-VariableFont_wght.ttf": "/tip-jar/./fonts/RobotoMono-Italic-VariableFont_wght.ttf",
+    "fonts/RobotoMono-VariableFont_wght.ttf": "/tip-jar/./fonts/RobotoMono-VariableFont_wght.ttf",
+    "favicon-16.png": "/tip-jar/favicon-16.png",
+    "favicon-32.png": "/tip-jar/favicon-32.png",
+    "favicon.ico": "/tip-jar/favicon.ico",
+    "index.html": "/tip-jar/index.html",
+    "manifest.json": "/tip-jar/manifest.json",
+    "serve.json": "/tip-jar/serve.json",
+    "static/js/2.eeb673fd.chunk.js.LICENSE.txt": "/tip-jar/static/js/2.eeb673fd.chunk.js.LICENSE.txt",
+    "static/media/cashapp.png": "/tip-jar/static/media/cashapp.82eb3b68.png",
+    "static/media/heron.png": "/tip-jar/static/media/heron.7770d5eb.png",
+    "static/media/noun-piggy-bank-1005096.png": "/tip-jar/static/media/noun-piggy-bank-1005096.ca8468f8.png",
+    "static/media/paypal.png": "/tip-jar/static/media/paypal.0c8894d0.png",
+    "static/media/venmo.png": "/tip-jar/static/media/venmo.e4835221.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.fb021e65.js",
+    "static/js/2.eeb673fd.chunk.js",
+    "static/js/app.f6632add.chunk.js"
+  ]
+}
